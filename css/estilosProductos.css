@@ -1,0 +1,40 @@
+.containerGrid
+{
+    padding: 5%;
+}
+
+.containerGrid img
+{
+    width: 100%;
+}
+
+.rowGrid
+{
+    align-items: center;
+}
+
+.rowGrid div h3, .rowGrid div p
+{
+    text-align: left;
+    margin: 10px 0px;
+}
+
+.rowGrid h3
+{
+    font-size: 17px;
+    color: #313337;
+}
+
+.rowGrid p
+{
+    font-size: 12px;
+    color: #313337;
+}
+
+.titleProducts
+{
+    margin: 0px;
+    padding: 5% 15% 0% 15%;
+    font-size: 30px;
+    color: #313337;
+}

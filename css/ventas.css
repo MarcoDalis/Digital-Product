@@ -1,0 +1,38 @@
+.modulo_pago
+{
+    background-color: white;
+    box-shadow: 0px 0 2px 1px #e6e5e9;
+    padding: 10px;
+}
+
+.modulo_pago_images
+{
+    max-width: 150px;
+    text-align: center;
+    margin: auto;
+}
+
+.rowGrid
+{
+    align-items: unset;
+}
+
+.modulo_pago label
+{
+    font-size: 12px;
+}
+
+.modulo_pago input
+{
+    margin: 10px 0px; 
+    width: 100%;
+    height: 35px;
+    border-radius: 2px;
+    border: 0.5px solid  #dadada; 
+    box-sizing: border-box; /*Le decimos que tome el tamaño de la caja, en este caso le estamis diciendo al Input que respete el tamaño de la caja*/ 
+}
+
+.modulo_pago_padding
+{
+    padding: 20px;
+}

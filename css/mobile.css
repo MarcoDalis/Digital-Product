@@ -1,0 +1,47 @@
+@media (max-width: 600px)
+{
+
+    /* -----------------------------------------------------------------------AQUI EMPIEZA MI MAIN SECTION */
+    .products
+    {
+        display: inherit;
+        height: auto;
+        max-height: none;
+    }
+
+    .product
+    {
+        margin-top: auto;
+    }
+
+    .main_section
+    {
+        padding: 4%;
+    }
+    /* -----------------------------------------------------------------------AQUI TERMINA MI MAIN SECTION */
+    /* -----------------------------------------------------------------------AQUI EMPIEZA MI SECOND SECTION */
+
+    .second_section
+    {
+        display: inherit;
+        padding: 50px 50px;
+    }
+
+    /* -----------------------------------------------------------------------AQUI TERMINA MI SECOND SECTION */
+    /* -----------------------------------------------------------------------AQUI EMPIEZA MI THIRD SECTION */
+
+    .third_section
+    {
+        display: inherit;
+        padding: 20px 10px
+    }
+
+    .third_section article
+    {
+        margin: 20px 0px;
+    }
+
+
+
+    /* -----------------------------------------------------------------------AQUI TERMINA MI THIRD SECTION */
+}
